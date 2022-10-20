@@ -7,17 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 I play piano during my spare time. More recordings on the way!
 
 
 
 <iframe
-    width="640"
-    height="480"
+    width="350"
+    height="260"
     src="https://www.youtube.com/embed/KFEsaEP-Leo"
     frameborder="0"
     allowfullscreen
