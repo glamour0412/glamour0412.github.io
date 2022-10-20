@@ -1,11 +1,7 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
-collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
----
+title: "Linear Bandits with Limited Adaptivity and Learning Distributional Optimal Design"
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+---
+A 20 minutes presentation in [STOC 2021](https://www.youtube.com/watch?v=IsiZsDXjFM4&t=338s).
+
+A 50 minutes presentation for [Koushare](https://www.koushare.com/video/videodetail/12400).
