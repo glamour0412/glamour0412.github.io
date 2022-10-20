@@ -12,8 +12,8 @@ I am a 5th year Ph.D. student at [Industrial & Enterprise Systems Engineering De
 
 Education 
 =====
-* University of Illinois, Urbana-Champaign (Aug 2018 - present) 
-  Ph.D. in Industrial & Enterprise Systems Engineering
+* University of Illinois, Urbana-Champaign (Aug 2018 - present)  
+  PhD in Industrial & Enterprise Systems Engineering 
   Advisor: Prof. Yuan Zhou
 
 * Tsinghua University (Aug 2014 - Jun 2018)
