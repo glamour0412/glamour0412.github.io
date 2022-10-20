@@ -1,6 +1,14 @@
 ---
-title: "Piano Recordings"
+layout: archive
+title: "Piano"
 permalink: /piano/
+author_profile: true
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+I play piano during my spare time. More recordings on the way!
+
+
+
+Piano Sonata No. 8 in C minor, Op. 13, Sonata Pathétique, 3rd movement
