@@ -12,8 +12,8 @@ I am a 5th year Ph.D. student at [Industrial & Enterprise Systems Engineering De
 
 Education 
 =====
-* University of Illinois, Urbana-Champaign (2018.8 - present)\  
-PhD in Industrial & Enterprise Systems Engineering\ 
+* University of Illinois, Urbana-Champaign (2018.8 - present)\
+Ph.D. in Industrial & Enterprise Systems Engineering\ 
 Advisor: Prof. Yuan Zhou
 
 * Tsinghua University (2014.8 - 2018.6)\
@@ -27,5 +27,5 @@ Work Experience
 
 Honors and Awards
 =======
-* 1st Prize in Tsinghua Operations Research Competition, Tsinghua University 2017\
+* 1st Prize in Tsinghua Operations Research Competition, Tsinghua University 2017
 * 2nd Prize in Chinese Mathematical Olympiad, 2013
