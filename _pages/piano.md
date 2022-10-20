@@ -13,8 +13,8 @@ I play piano during my spare time. More recordings on the way!
 
 
 <iframe
-    width="350"
-    height="260"
+    width="420"
+    height="315"
     src="https://www.youtube.com/embed/KFEsaEP-Leo"
     frameborder="0"
     allowfullscreen
