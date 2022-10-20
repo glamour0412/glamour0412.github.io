@@ -13,19 +13,19 @@ I am a 5th year Ph.D. student at [Industrial & Enterprise Systems Engineering De
 Education 
 =====
 * University of Illinois, Urbana-Champaign (Aug 2018 - present)  
-  PhD in Industrial & Enterprise Systems Engineering 
+  PhD in Industrial & Enterprise Systems Engineering\ 
   Advisor: Prof. Yuan Zhou
 
-* Tsinghua University (Aug 2014 - Jun 2018)
+* Tsinghua University (Aug 2014 - Jun 2018)\
   B.S. in Mathematical Sciences
 
 Work Experience
 ======
-* Morgan Stanley (Jun 2022 - Aug 2022)
+* Morgan Stanley (Jun 2022 - Aug 2022)\
   Quantitative Finance Summer Associate, Derivatives Strats Team
 
 
 Honors and Awards
 =======
-* 1st Prize in Tsinghua Operations Research Competition, Tsinghua University 2017
-* 2nd Prize in Chinese Mathematical Olympiad, 2013
+1st Prize in Tsinghua Operations Research Competition, Tsinghua University 2017\
+2nd Prize in Chinese Mathematical Olympiad, 2013
