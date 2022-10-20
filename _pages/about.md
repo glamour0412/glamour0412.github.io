@@ -13,8 +13,7 @@ I am a 5th year Ph.D. student at [Industrial & Enterprise Systems Engineering De
 Education 
 ======
 * University of Illinois at Urbana-Champaign (Aug 2018 - present)
-
-  Ph.D. in Industrial & Enterprise Systems Engineering
+Ph.D. in Industrial & Enterprise Systems Engineering
 
   Advisor: Prof. Yuan Zhou
 
@@ -23,6 +22,9 @@ Education
   B.S. in Mathematical Sciences
 
 
+* University of Illinois, Urbana-Champaign (2020.12-present)  
+  PhD in Electrical and Computer Engineering  
+  Advisor: Prof. [Pramod Viswanath](https://web3.princeton.edu/members/)
 
 
 Work Experience
