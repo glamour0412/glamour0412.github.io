@@ -12,17 +12,17 @@ I am a 5th year Ph.D. student at [Industrial & Enterprise Systems Engineering De
 
 Education 
 =====
-* University of Illinois, Urbana-Champaign (Aug 2018 - present)  
+* University of Illinois, Urbana-Champaign (2018.8 - present)  
   PhD in Industrial & Enterprise Systems Engineering\ 
-  Advisor: Prof. Yuan Zhou
+Advisor: Prof. Yuan Zhou
 
-* Tsinghua University (Aug 2014 - Jun 2018)\
+* Tsinghua University (2014.8 - 2018.6)\
   B.S. in Mathematical Sciences
 
 Work Experience
 ======
-* Morgan Stanley (Jun 2022 - Aug 2022)\
-  Quantitative Finance Summer Associate, Derivatives Strats Team
+Morgan Stanley (2022.6 - 2022.8)\
+Quantitative Finance Summer Associate, Derivatives Strats Team
 
 
 Honors and Awards
