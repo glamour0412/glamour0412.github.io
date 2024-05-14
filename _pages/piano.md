@@ -46,6 +46,17 @@ Bach: Minuet in G Minor (BWV Anh. 115)
 <iframe
     width="420"
     height="315"
+    src="https://youtube.com/embed/K1v3cJApigw"
+    frameborder="0"
+    allowfullscreen
+>
+</iframe>
+
+Chopin - Waltz in C-sharp minor, Op. 64, No. 2
+
+<iframe
+    width="420"
+    height="315"
     src="https://youtube.com/embed/Kyv_HQHiVLY"
     frameborder="0"
     allowfullscreen
