@@ -1,4 +1,4 @@
-ne# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yufei Ruan"
-  avatar           : "new_photo.jpeg"
+  avatar           : "new_photo.jpg"
   bio              : "5th Year PhD Student at UIUC"
   location         : "Champaign, IL"
   employer         :
